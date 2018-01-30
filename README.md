@@ -23,4 +23,4 @@
 ©2018, XuTianyi
 
 PS:欢迎关注我的 **新** 微信公众号“ **杉竹** ”
-![shanzhu-wx](https://github.com/xutianyi-owl/C-learning-note/blob/master/shanzhu-wx.jpg)
+![shanzhu-wx](https://github.com/xutianyi-owl/C-Learning/blob/master/shanzhu-wx.jpg)
